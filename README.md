@@ -1,10 +1,6 @@
 # Introduction
 go-account is my self-learning project to study how to achieve rest api using go gin framework
 
-# Introduction
-
-This repository contains about a deposit and loan management application in a village that nowhere. hehe.
-
 # Tech Stack
 
 I used these tech stack for create this project with:
